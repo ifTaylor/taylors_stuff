@@ -1,0 +1,54 @@
+{
+  "name": "taylors_stuff",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "Portfolio",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTControls/taylors_stuff"
+  },
+  "keywords": [
+    "portfolio",
+    "web development",
+    "front-end"
+  ],
+  "author": "Taylor Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTControls/taylors_stuff/issues"
+  },
+  "homepage": "https://github.com/TTControls/taylors_stuff#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "config": {
+    "port": 1234
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "eslint": "^8.3.0",
+    "jest": "^27.3.1",
+    "parcel": "^2.8.2",
+    "prettier": "^2.8.1"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
+    "popper.js": "^1.16.1",
+    "vanilla-tilt": "^1.8.0"
+  },
+  "contributors": [
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    }
+  ],
+  "resolutions": {
+    "npm": "^8.0.0"
+  }
+}
