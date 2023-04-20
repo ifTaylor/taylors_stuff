@@ -1169,7 +1169,7 @@ textarea.form-input::-webkit-resizer {
   background: var(--bg-gradient-jet);
 }
 
-@media (min-width: 450px) {
+@media (width >= 450px) {
   .clients-item {
     min-width: calc(33.33% - 10px);
   }
@@ -1179,7 +1179,7 @@ textarea.form-input::-webkit-resizer {
   }
 }
 
-@media (min-width: 580px) {
+@media (width >= 580px) {
   :root {
     --fs-1: 32px;
     --fs-2: 24px;
@@ -1448,7 +1448,7 @@ textarea.form-input::-webkit-resizer {
   }
 }
 
-@media (min-width: 768px) {
+@media (width >= 768px) {
   .sidebar, article {
     width: 700px;
   }
@@ -1516,7 +1516,7 @@ textarea.form-input::-webkit-resizer {
   }
 }
 
-@media (min-width: 1024px) {
+@media (width >= 1024px) {
   :root {
     --shadow-1: -4px 8px 24px #00000020;
     --shadow-2: 0 16px 30px #00000020;
@@ -1578,7 +1578,7 @@ textarea.form-input::-webkit-resizer {
   }
 }
 
-@media (min-width: 1250px) {
+@media (width >= 1250px) {
   body::-webkit-scrollbar {
     width: 20px;
   }
