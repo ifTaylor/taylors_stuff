@@ -1,0 +1,100 @@
+body {
+  background-color: white;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+img {
+  width: 100%;
+  max-width: 740px;
+  padding: 20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+#title_text {
+  text-align: center;
+}
+
+#wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.col-lg-12 {
+  padding-bottom: 70px;
+}
+
+.note {
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px;
+}
+
+.note div {
+  text-align: left;
+  border: 1px solid grey;
+  display: inline-block;
+  padding: 0.5em 0.7em;
+  overflow: auto;
+  max-width: 70%;
+  background-color: #d6e4f9;
+}
+
+.note h3 {
+  margin: 0.1em;
+  text-align: center;
+}
+
+.ex {
+  text-align: center;
+  width: 70%;
+  padding: 10px 0;
+  margin: 30px auto;
+  padding: 0.5em 0.7em;
+  border: 1px solid grey;
+  border-radius: 0.5em;
+  background: #f2f2f2;
+}
+
+.ex button {
+  margin-right: 0;
+  margin-left: 20px;
+}
+
+.ex #question {
+  margin: 10px auto;
+  text-align: left;
+}
+
+.ex #solution {
+  display: none;
+  text-align: left;
+  margin: 20px auto;
+  width: 90%;
+}
+
+.indent {
+  margin-left: 20px;
+}
+
+.footer {
+  position: relative;
+  height: 70px;
+  clear:both;
+}
+
+.footer p {
+  position: absolute;
+  bottom: 0;
+}

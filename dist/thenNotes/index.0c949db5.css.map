@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA;;;;AAIA","sources":["thenNotes/css/styles.css"],"sourcesContent":["body {\n  color: #dfdfdf;\n  background-color: #064156;\n}\n\na {\n  color: #00d1b2;\n}\n\na:hover {\n  color: #46fce1;\n  text-decoration: none;\n}\n"],"names":[],"version":3,"file":"index.0c949db5.css.map","sourceRoot":"/__parcel_source_root/"}

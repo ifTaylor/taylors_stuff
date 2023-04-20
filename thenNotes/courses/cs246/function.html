@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CS 246 :: Functions</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    <meta name="Course Notes" content="">
+    <meta name="Raphael" content="">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../../css/simple-sidebar.css" rel="stylesheet">
+    <link href="../css/styles.css" rel="stylesheet">
+    <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?lang=cpp&lang=bsh&skin=sunburst"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <!-- Sidebar -->
+      <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+          <li class="sidebar-brand">
+            <a href="./home.html">CS 246 Home</a>
+          </li>
+          <li><a href="#1">Predefined Functions</a></li>
+          <li><a href="#2">Random Number Generator</a></li>
+          <li><a href="#3">Programmer-Defined Functions</a></li>
+          <li><a href="#4">Scope</a></li>
+          <li><a href="#5">Parameters</a></li>
+          <li><a href="#6">Const Modifer</a></li>
+          <li><a href="#7">Inline Functions</a></li>
+          <li><a href="#8">Overloading</a></li>
+          <li><a href="#9">Friend Functions</a></li>
+          <li><a href="#10">Assert Macro</a></li>
+        </ul>
+      </div>
+      <!-- /#sidebar-wrapper -->
+
+      <!-- Page Content -->
+      <div id="page-content-wrapper">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-lg-12">
+                <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
+                <h1 id="title_text">Functions</h1><br />
+
+                <!-- Table of Contents -->
+                <div id="contents">
+                  <h1>Table of Contents</h1>
+                  <ol id="nav">
+                    <li><a href="#1">Predefined Functions</a></li>
+                    <li><a href="#2">Random Number Generator</a></li>
+                    <li><a href="#3">Programmer-Defined Functions</a></li>
+                    <li><a href="#4">Scope</a></li>
+                    <li><a href="#5">Parameters</a></li>
+                    <li><a href="#6">Const Modifer</a></li>
+                    <li><a href="#7">Inline Functions</a></li>
+                    <li><a href="#8">Overloading</a></li>
+                    <li><a href="#9">Friend Functions</a></li>
+                    <li><a href="#10">Assert Macro</a></li>
+                  </ol>
+                </div>
+                <!--Table of Contents -->
+
+                Functions are the building blocks of programs. The 3 advantages of functions are:
+                <ol>
+                  <li>Divide & Conquer</li>
+                  <li>Readability</li>
+                  <li>Re-usability</li>
+                </ol>
+                There are 2 types of functions:
+                <ol>
+                  <li>
+                    Returns a value - function returns a value (can be used as a value).  Must include a <code class="prettyprint lang-cpp">return</code> statement
+                  </li>
+                  <li>
+                    Does not return a value (void) -
+                    just performs an action; do not return a value. e.g. <code class="prettyprint">exit</code> statement.
+                  </li>
+                </ol>
+                <pre class="prettyprint lang-cpp">
+Return_Type Function_Name (Parameter_1, Parameter_2, ...) {
+  Statements
+  return Return_Value; // return statement
+}</pre>
+
+                <h2 id="1">Predefined Functions</h2>
+                C++ comes with in-built libraries of functions for us to use.  In order to use them, we must <code>#include</code> the appropriate libarary.
+                Here are some math functions:
+                <ul>
+                  <li>&lt;cstdlib>
+                    <ul>
+                      <li><code>abs(int i)</code> - returns absolute value of int</li>
+                      <li><code>labs(long i)</code> - returns absolute value of long int</li>
+                      <li><code>rand()</code> - returns a pseudo-random number in the range between 0 and <code>RAND_MAX</code>.  More details in the <a class="link" href="#2">Random Number Generator</a> section below.</li>
+                    </ul>
+                  </li>
+                  <li>&lt;cmath>
+                    <ul>
+                      <li><code>fabs(float i)</code> - returns absolute value of float</li>
+                      <li><code>pow(double x, double y)</code> - returns <code>x^y</code></li>
+                    </ul>
+                  </li>
+                </ul>
+
+                <h2 id="2">Random Number Generator</h2>
+                To generate a random number, we can use the <code class="prettyprint">rand()</code> function from the <code>&lt;cstdlib></code> library.  <code class="prettyprint">rand()</code> does not take any arguments and returns a value between 0 and <code>RAND_MAX</code> (a library-dependent constant defined in <code>&lt;cstdlib></code>).  To use this to our intended implementation, we perform:
+                <ol>
+                  <li>Scaling - <code class="prettyprint">rand() % Scale</code> returns a value in the range 0 to <code>Scale - 1</code></li>
+                  <li>Shifting - <code class="prettyprint">rand() % Scale + Shift</code> returns a value in the range <code>Shift</code> to <code>Scale + Shift - 1</code></li>
+                </ol>
+                <h3>Random Number Seed</h3>
+                Seeds can be used to alter the sequence of pseudo-random numbers.  We use the function <code class="prettyprint">srand(int seed_value)</code> for this.<br />
+                <ul>
+                  <li>
+                    <code class="prettyprint">srand(1)</code> performs the same action as <code class="prettyprint">rand()</code>.
+                  </li>
+                  <li>
+                    In order to produce random-like numbers, we use runtime values such as <code class="prettyprint">time()</code> provided in the <code>&lt;ctime></code> library. e.g. <pre class="prettyprint lang-cpp">
+#include &lt;cstdlib.h>
+#include &lt;time.h>
+srand (time(NULL));
+printf ("Random number: %d\n", rand() % 100 + 1); // random number in range 1 to 100
+</pre>
+                  </li>
+                </ul>
+
+                <h2 id="3">Programmer-Defined Functions</h2>
+                There are 3 components to using functions:
+                <ol>
+                  <li>Function Declaration - Provides information to compiler to properly interpret function calls.</li>
+                  <li>Function Definition - Provides implmentation of function.</li>
+                  <li>Function Call - Transfers control flow to function.</li>
+                </ol>
+
+                <h3>Function Declaration</h3>
+                Also known as the <b>function prototype</b>.  It is placed <i>before</i> any calls, most commonly in header files.  It provides the compiler with information on how to properly interpret calls.  The compiler only needs to know:
+                <ul>
+                  <li>Return type</li>
+                  <li>Function name</li>
+                  <li>Parameter list - formal parameter names not needed but should be left in for readability</li>
+                </ul>
+                Syntax: <code class="prettyprint">Return_Type Function_Name (Parameter_List);</code>
+
+                <h3>Function Definition</h3>
+                This is the implementation of the function.  Statements are placed within the enclosing braces.  The return statement sends data back to caller.  At this point (or end of block for void functions) transfers the control flow back to the point of function call.  <br />
+                Syntax: <pre class="prettyprint">Return_Type Function_Name (Parameter_List) {
+  Statements
+  return Return_Type;
+}</pre>
+
+                <h3>Function Call</h3>
+                Calls the specified function.<br />
+                Syntax: <code class="prettyprint">Variable = Function_Name(Argument_List);</code>
+
+                <h2 id="4">Scope</h2>
+                Functions should be self-contained and not interfere with other functions.  There are times when a function might have a same variable name as one outside of the function.  The scope of the variables determine which one is being used.
+                There are 2 types of variable scopes:
+                <ol>
+                  <li>Local scope</li>
+                  <li>Global scope</li>
+                  <li>Block scope</li>
+                </ol>
+                <h3>Local Scope</h3>
+                Local variables are declared inside the body of a function and are available only within that function's scope.  This allows for variables with the same names being declared in different functions.  Advantages of local variables:
+                <ul>
+                  <li>maintains control over data</li>
+                  <li>used on a need-to-know basis</li>
+                  <li>functions should declare what local data is needed</li>
+                </ul>
+
+                <h3>Global Scope</h3>
+                Global variables are declared outside of the function body and is accessible to all functions in that file.  This is commonly used for constants. Global variables are seldom used as it lacks control over their usage.
+
+                <h3>Block Scope</h3>
+                Variables are declared inside a compound (block) statement.  All function definitions are blocks, which provides local "function-scope".  e.g. loop blocks<br />
+                Block scopes can also be nested.  Variables have their scope limited to the innermost enclosing braces.
+
+                <h2 id="5">Parameters</h2>
+                <h3>Parameter vs Argument</h3>
+                <ul>
+                  <li>
+                    Formal Parameters
+                    <ul>
+                      <li>listed in function declaration</li>
+                      <li>used in body of function</li>
+                      <li>placeholder that is filled in with something when the function is called</li>
+                    </ul>
+                  </li>
+                  <li>
+                    Argument
+                    <ul>
+                      <li>used to fill in a formal parameter</li>
+                      <li>listed in parenthesis in function call</li>
+                      <li>plugged in to formal parameters when function is invoked</li>
+                    </ul>
+                  </li>
+                </ul>
+                There are 2 methods of passing arguments as parameters:
+                <ol>
+                  <li>
+                    Call-by-value: copy of value is passed
+                    <ul>
+                      <li>local variable</li>
+                      <li>only value of arg is passed in</li>
+                      <li>if modified, only local copy is mutated</li>
+                    </ul>
+                  </li>
+                  <li>
+                    Call-by-reference: address of actual argument is passed
+                    <ul>
+                      <li>provides access to actual argument</li>
+                      <li>data provided by argument can be modified by the function</li>
+                      <li>Reference is specified by the ampersand <code>&</code> after the data type: <code class="prettyprint">datatype& var</code> (see more <a href="./pointer.html#1">here</a>.)</li>
+                      <li>Reduces overhead because no need to copy over entire object, only address</li>
+                      <li>If argument should not be modified, we add the <code>const</code> keyword. e.g. <code class="prettyprint">void fun (const int i){}</code></li>
+                    </ul>
+                  </li>
+                </ol>
+                <pre class="prettyprint">void getNumbers(int num1, int& num2) {
+  num1 += num2;  // local copy of num1 is changed
+  num2 += num1;  // original copy of num2 is changed
+}</pre>
+
+                <h3>Default Arguments</h3>
+                Allows function call to omit some arguments.  Specify default value in parameter list of function declaration. e.g.<pre class="prettyprint">void showVolume(int length, int width = 1, int height = 1);
+showVolume(1, 2, 3);  // all arguments provided
+showVolume(1, 2); // length, width provided. height defaulted to 1
+showVolume(7); // length provided. width, height defaulted to 1</pre>
+
+                <h2 id="6">Const Modifier</h2>
+                To protect a variable from being changed, the <code>const</code> keyword is placed before the type.
+
+                <h3>Constant Parameters</h3>
+                This can be used to make parameters constant, especially when passing in references that should not be changed.  For example, it is desirable to pass in classes as references (less overhead), but we might not want the object to be changed.  e.g. <code class="prettyprint">bool isLarger(const int& a, const int& b);</code>
+
+                <h3>Constant Functions</h3>
+                If a member function should not change the value of calling object, we can mark the function with a const modifier by appending it at the end of the function declaration.  As a rule of thumb, if a function does not need to modify its containing class, it should be declared as a constant function. e.g. <code class="prettyprint">void output() const;</code><br />
+                * Constant objects can only call constant functions.
+
+                <h3>Mutable Modifier</h3>
+                <code>mutable</code> fields can be changed within constant functions.  For example,
+<pre class="prettyprint">
+struct Student {
+  mutable int numMethodCalls = 0;
+  float grade() const {
+    ++numMethodCalls;
+    return
+  }
+}</pre>
+
+
+                <h2 id="7">Inline Functions</h2>
+                Inline functions are a way to reduce overhead for smaller functions by telling the compiler to replace all calls to this function with its definition (similar to macros).
+
+                <h3>Inline Non-Member Functions</h3>
+                To make non-member (not part of a class) function inline, we declare it like a normal function, but prepend <code>inline</code> to the function's definition and place it in a header file (to avoid an "unresolved external" error from the linker when trying to call it from other <code>.cpp</code> files).
+
+                <h3>Inline Member Functions</h3>
+                To make a member function inline, we place the function definition <i>within</i> the class definition, which makes it automatically inline.
+
+                <h2 id="8">Overloading</h2>
+                C++ allows 2 or more different definitions to the same function name, but with different parameter lists (i.e. different number of parameters or parameters of different types). The compiler decides which function to call based on the signature of the function call.
+                <h3>Overloading Resolution</h3>
+                <ol>
+                  <li>First looks for exact signature - no argument conversion required</li>
+                  <li>Then looks for compatible signatures - where automatic type conversion is possible in the following order:
+                    <ol type="i">
+                      <li>
+                        Promotion (e.g. <code>int</code> to <code>double</code>) - no loss of data
+                      </li>
+                      <li>
+                        Demotion (e.g. <code>double</code> to <code>int</code>) - possible loss of data
+                      </li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <h3>Overloading Built-In Operators</h3>
+                We can overload built-in functions to work with programmer-defined types.  To overload an operator, we add the <code>operator</code> keyword after the data type and before the operator.  For example, the following overloading of the <code>+</code> operator allows us to add two <code>Money</code> objects together:
+<pre class="prettyprint">
+const Money operator +(const Money& amount1, const Money& amount2) {
+ int allCents1 = amount1.getCents() + amount1.getDollars()*100;
+ int allCents2 = amount2.getCents() + amount2.getDollars()*100;
+ int sumAllCents = allCents1 + allCents2;
+ int absAllCents = abs(sumAllCents); // Money can be negative
+ int finalDollars = absAllCents / 100;
+ int finalCents = absAllCents % 100;
+
+ if (sumAllCents < 0) {
+  finalDollars = -finalDollars;
+  finalCents = -finalCents;
+ }
+
+ return Money(finalDollars, finalCents);
+}</pre>
+
+                <h3>Returning By const Value</h3>
+                Note that the above example for the <code>+</code> operator returns a constant object.  If it didn't, we could modify the returned anonymous object which would make no sense.
+<pre class="prettyprint">
+Money operator +(const Money& amount1, const Money& amount2);
+Money sum = (m1 + m2).getDollars();  // possible since not const</pre>
+
+                <h3>Overloading Operators as Member Functions</h3>
+                We can also overload operators as member functions, as part of a class.  Allows access to private member variables without having to go through the accessor/mutator methods.  This requires the overloaded function to take in only one parameter, since the calling object serves as the first parameter.
+<pre class="prettyprint">
+const Money::Money operator +(const Money& amount2);</pre><br />
+
+
+                <h4 id="exsert">Overloading >> And << Operators</h4>
+                Overloading the inserter and extractor operators can be used to input and output objects of programmer-defined classes.  For example, let's look at the inserter operator:
+<pre class="prettyprint">
+ostream& operator <<(ostream& outputStream, const Money& amount) {
+  int absDollars = abs(amount.dollars);
+  int absCents = abs(amount.cents);
+  if (amount.dollars < 0 || amount.cents < 0)
+    //accounts for dollars == 0 or cents == 0
+    outputStream << "$-";
+  else
+    outputStream << '$';
+  outputStream << absDollars;
+  if (absCents >= 10)
+    outputStream << '.' << absCents;
+  else
+    outputStream << '.' << '0' << absCents;
+  return outputStream;
+}</pre>
+                Note that the overloaded operator returns a reference.  This allows us to chain inserter operators. The extractor operator is overloaded in a similar way, but the second argument <i>receives</i> the input value, so it cannot be a constant.
+<pre class="prettyprint">
+istream& operator >>(istream& inputStream, Money& amount) {
+ char dollarSign;
+ inputStream >> dollarSign;
+ if (dollarSign != '$') {
+   cout << "No dollar sign in Money input.\n";
+   exit(1);
+ }
+ double amountAsDouble;
+ inputStream >> amountAsDouble;
+ amount.dollars = amount.dollarsPart(amountAsDouble);
+ amount.cents = amount.centsPart(amountAsDouble);
+ return inputStream;
+}</pre>
+<br />
+                <h4 id="assignment">Overloading = Operator</h4>
+                The assignment operator is overloaded as a member operator.  The default assignment operator copies values of the member vars from one object to the corresponding member vars of the other object.  The operator should return a reference to allow chaining (use <code>this</code> pointer).
+<pre class="prettyprint">
+StringClass& StringClass::operator=(const StringClass& rtSide) {
+  if (this == &rtSide) // if right side same as left side
+    return *this;
+  else{
+    capacity = rtSide.length;
+    length = rtSide.length;
+    delete [] a;
+    a = new char[capacity];
+    for (int i = 0; i < length; i++)
+      a[i] = rtSide.a[i];
+    return *this;
+  }
+}</pre>
+                <br /><br />
+                <h4>Overloading ++ And -- Operators</h4>
+                As both the increment and decrement operators have prefix and postfix versions, we need to distinguish them.
+                <ul>
+                  <li>
+                    Prefix Version: <code>++x</code>
+                    <ul>
+                      <li>overload as nonmember operator with one parameter</li>
+                      <li>overload as member operator with no parameter</li>
+                    </ul>
+                  </li>
+                    <li>
+                      Postfix Version: <code>x++</code>
+                      <ul>
+                        <li>add parameter of type int.  Note that this is just a marker for compiler.  Do <u>not</u> give a second int arg when invoking it</li>
+                      </ul>
+                    </li>
+                </ul>
+<pre class="prettyprint">
+class IntPair {
+public:
+  IntPair operator++(); // Prefix version
+  IntPair operator++(int); // Postfix version
+}
+IntPair IntPair:: operator++() { // Prefix version
+ first++;
+ second++;
+ return IntPair(first, second);
+}
+IntPair IntPair:: operator++(int ignoreMe) { // Postfix version
+ int temp1 = first;
+ int temp2 = second;
+ first++;
+ second++;
+ return IntPair(temp1, temp2);
+}</pre><br />
+                <h4>Overloading Array Operator []</h4>
+                The array operator can be overloaded (as a member function) so it can be used with objects of the class.  To use it on the left-hand side of an assignment, the operator must return a reference.
+<pre class="prettyprint">
+char& CharPair:: operator[](int index) {
+ if (index == 1) return first;
+ else if (index == 2) return second;
+ else {
+   cout << "Illegal index value.\n";
+   exit(1);
+ }
+}</pre>
+
+                <h3 id="rules">Rules on Overloading Operators</h3>
+                <ol>
+                  <li>
+                    When overloading an operator, at least one parameter of the resulting overloaded operator must be of a class type
+                  </li>
+                  <li>
+                    Most operators can be overloaded as a member of the class, a friend of the class, or a nonmember, nonfriend
+                  </li>
+                  <li>
+                    <ul>
+                      <li>Overloading l-value: <code class="prettyprint">int& f();</code></li>
+                      <li>Overloading r-value: <code class="prettyprint">const int& f() const;</code></li>
+                    </ul>
+                  </li>
+                  <li>
+                    The following operators can only be overloaded as (non-static) members of the class: =, [], ->, and ()
+                  </li>
+                  <li>
+                    Cannot create a new operator, can only overload existing operators
+                  </li>
+                  <li>
+                    Cannot change the number of arguments that an operator takes (excluding difference between member and non-member overloaded operator parameters)
+                  </li>
+                  <li>
+                    Cannot change precedence of an operator.  An overloaded operator has the same precedence as the ordinary version of the operator.  e.g. <code class="prettyprint">x*y + z => (x*y) + z</code>
+                  </li>
+                  <li>
+                    The following operators cannot be overloaded: <code>.</code>, <code>::</code>, <code>sizeof</code>, <code>?:</code>, <code>.*</code>
+                  </li>
+                  <li>
+                    Overloaded operators cannot have default arguments
+                  </li>
+                </ol>
+
+                <h3>Automatic Type Conversion</h3>
+                Following the previous example of overloading as a member function, consider the following case:
+<pre class="prettyprint">
+Money baseAmount(100, 60), fullAmount;
+fullAmount = baseAmount + 25;
+fullAmount.output();</pre>
+                Since the <code>+</code> was not overloaded for ints, the compiler looks for a constructor that takes a single argument of <code>int</code> and converts it to an object of type <code>Money</code>.  Once converted, the program applies the overloaded operator function onto the it.<br />
+                Note that <code class="prettyprint">25 + baseAmount</code> would not work as 25 cannot be a calling object.  This can be handled if we overload the <code>+</code> operator as a non-member.
+                <br />Advantages of overloading as a non-member:
+                <ol>
+                  <li>
+                    allows us to combine variables of different types
+                  </li>
+                  <li>
+                    gives automatic type conversion of all arguments
+                  </li>
+                </ol>
+                On the other hand, overloading as a member gives us the efficiency of bypassing accessor/mutator methods and diirectly accessing member variables.  Overloading as a <b>friend function</b> offers both advantages.
+
+
+                <h2 id="9">Friend Functions</h2>
+                A <b>friend function</b> of a class is not a  member function of the class but it has access to private members/functions of that class. This makes friend functions more efficient as it reduces overhead. They are essentially nonmember functions that have all the privileges of member functions.  <br />
+                We declare friend functions of a class in the class definition, similar to member functions, but they are <u>not</u> member functions. They are ordinary non-member functions with extra access to data members of the class.  They are called the same way as a non-member function (no need for dot operator).
+<pre class="prettyprint">
+class Class_Name {
+public:
+  friend Friend_Function();
+};</pre>
+
+                <h2 id="10">Assert Macro</h2>
+                An <b>assertion</b> is a true or false statement used in debugging and testing programs.  It is used to check correctness of provided arguments.  It does not have a return value and terminates the program if the assert condition is false so that the error can be investigated.  Defined in the <code>&lt;cassert></code> library. <br />
+                Syntax: <code class="prettyprint">assert (Assert_Condition);</code>
+                <br />
+                To turn assertions off, add <code class="prettyprint">#define NDEBUG</code> before the include statements.  To turn it back on, remove or comment out that line. e.g.<pre class="prettyprint">#define NDEBUG
+#include &lt;cassert>
+void getAge(int age){
+  assert (age >= 0); // program terminates if age is negative
+}</pre>
+
+              </div>
+            </div>
+        </div>
+        <footer class="footer">
+          <a href="#top">Back to Top</a>
+          <p id="last_modified"></p>
+        </footer>
+      </div>
+      <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="../../js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../../js/bootstrap.min.js"></script>
+
+    <!-- JS Script -->
+    <script src="../../js/scripts.js"></script>
+
+  </body>
+</html>
