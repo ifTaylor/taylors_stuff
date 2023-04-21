@@ -43,7 +43,7 @@ body {
 }
 
 h1, h2, p {
-  margin: 0;
+  margin: ;
 }
 
 ul {
@@ -76,7 +76,7 @@ img {
   content: "";
   width: 64px;
   height: .18rem;
-  background-color: var(--first-color);
+  background-color: var(--second-color);
   margin: auto;
   position: absolute;
   top: 2rem;
@@ -174,6 +174,76 @@ img {
   right: 0;
 }
 
+.notes_container {
+  width: 50%;
+  max-width: 800px;
+  word-wrap: break-word;
+  border: 1px solid #000;
+  border-radius: 5px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+}
+
+#inputText {
+  width: 600px;
+  word-wrap: break-word;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+  box-shadow: 0 0 5px gray;
+}
+
+#list {
+  width: 100%;
+  max-width: 700px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#list li {
+  word-wrap: break-word;
+  text-overflow: ellipsis;
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+}
+
+.selected-item {
+  background-color: #ff0;
+}
+
+.button-group {
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.button-group:last-of-type {
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: var(--first-color);
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  align-self: flex-end;
+  margin-left: 5px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.button:hover {
+  background-color: var(--second-color);
+}
+
 .home {
   row-gap: 5rem;
   padding: 4rem 0 5rem;
@@ -236,6 +306,24 @@ img {
 
 .button:hover {
   box-shadow: 0 10px 36px #00000026;
+}
+
+.notes__container {
+  text-align: center;
+  row-gap: 2em;
+}
+
+.notes__subtitle {
+  margin-bottom: var(--mb-2);
+}
+
+.notes__img {
+  justify-self: right;
+}
+
+.notes__img img {
+  width: 200px;
+  border-radius: .5rem;
 }
 
 .about__container {
@@ -419,7 +507,7 @@ img {
     bottom: 25%;
   }
 
-  .about__container {
+  .notes__container, .about__container {
     text-align: initial;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
@@ -497,7 +585,7 @@ img {
     bottom: 10%;
   }
 
-  .about__container {
+  .notes, .about__container {
     padding-top: 2rem;
   }
 

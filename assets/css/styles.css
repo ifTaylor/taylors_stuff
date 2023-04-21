@@ -52,7 +52,7 @@ body {
 }
 
 h1, h2, p {
-  margin: 0;
+  margin: ;
 }
 
 ul {
@@ -91,7 +91,7 @@ img {
   right: 0;
   margin: auto;
   top: 2rem;
-  background-color: var(--first-color);
+  background-color: var(--second-color);
 }
 
 .section {
@@ -188,6 +188,76 @@ img {
   right: 0;
 }
 
+.notes_container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 50%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  word-wrap: break-word;
+}
+
+#inputText {
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 0 5px gray;
+  width: 600px;
+  word-wrap: break-word;
+}
+
+#list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  max-width: 700px;
+}
+
+#list li {
+  display: flex;
+  align-items: center;
+  word-wrap: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.selected-item {
+  background-color: yellow;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.button-group:last-of-type {
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: var(--first-color);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 5px;
+  align-self: flex-end;
+}
+
+.button:hover {
+  background-color: var(--second-color);
+}
+
 /*===== HOME =====*/
 .home {
   position: relative;
@@ -252,6 +322,25 @@ img {
 
 .button:hover {
   box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.15);
+}
+
+/* ===== Notes =====*/
+.notes__container {
+  row-gap: 2em;
+  text-align: center;
+}
+
+.notes__subtitle {
+  margin-bottom: var(--mb-2);
+}
+
+.notes__img {
+  justify-self: right;
+}
+
+.notes__img img {
+  width: 200px;
+  border-radius: .5rem;
 }
 
 /* ===== ABOUT =====*/
@@ -436,6 +525,11 @@ img {
     width: 300px;
     bottom: 25%;
   }
+  .notes__container {
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    text-align: initial;
+  }
   .about__container {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
@@ -498,6 +592,9 @@ img {
   .home__img {
     width: 400px;
     bottom: 10%;
+  }
+  .notes {
+    padding-top: 2rem;
   }
   .about__container {
     padding-top: 2rem;
