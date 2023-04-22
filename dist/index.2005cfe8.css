@@ -43,7 +43,7 @@ body {
 }
 
 h1, h2, p {
-  margin: ;
+  margin: 0;
 }
 
 ul {
@@ -453,7 +453,7 @@ img {
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
-  padding: 2rem 0;
+  padding: 7rem 0;
 }
 
 .footer__title {

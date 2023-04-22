@@ -1,80 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>thenNotes;</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
+    <head>
+        <title>thenNotes;</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../assets/css/styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.0.7/css/boxicons.min.css">
+    </head>
+      
 <body>
 
-<div class="container">
-  <h2>Notes on stuff.</h2>
-  <p>Media objects can also be nested (a media object inside a media object):</p><br>
-    <div class="media">
-        <!-- 1.0 -->
-        <div class="media-left">
-            <p><a href="./TheStandardModel/index.html"><img src="media/StandardModel.png" class="media-object" style="width:45px"></a></p>
-        </div>
-        <div class="media-body">
-            <h4 class="media-heading">The Standard Model <small><i></i></small></h4>
-            <p>An atomic model of three fundamental forces and their interaction with four classifications of particles.</p>
-            <!-- 1.1 -->
-            <div class="media">
-                <div class="media-left">
-                    <img src="media/StandardModel.png" class="media-object" style="width:45px">
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">Particles<small><i>Posted on February 19, 2016</i></small></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-            </div>
-            <!-- 1.2 -->
-            <div class="media">
-                <div class="media-left">
-                    <img src="media/StandardModel.png" class="media-object" style="width:45px">
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">Forces<small><i>Posted on February 19, 2016</i></small></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-            </div>
-        </div>
-        <br>
-        <!-- 2.0 -->
-        <div class="media-left">
-            <img src="media/StandardModel.png" class="media-object" style="width:45px">
-        </div>
-        <div class="media-body">
-            <h4 class="media-heading">The Standard Model <small><i></i></small></h4>
-            <p>An atomic model of three fundamental forces and their interaction with four classifications of particles.</p>
-            <!-- 2.1 -->
-            <div class="media">
-            <div class="media-left">
+    <div class="container">
+        <h2>Notes on stuff.</h2>
+        <p>Media objects can also be nested (a media object inside a media object):</p><br>
+        <ol type="none"> <!-- Wrap with ordered list -->
+          <li>
+            <div class="media-body" style="display: flex;">
+              <!-- 1.0 -->
+              <div style="flex: 0 0 auto; margin-right: 10px;">
+                <a href="./TheStandardModel/index.html">
                 <img src="media/StandardModel.png" class="media-object" style="width:45px">
+                </a>
+              </div>
+              <div style="flex: 1;">
+                <h4 class="media-heading">Chapter 1: The Standard Model <small><i></i></small></h4>
+                <p>An atomic model of three fundamental forces and their interaction with four classifications of particles.</p>
+                <ol type="none"> <!-- Wrap with ordered list -->
+                  <li>
+                    <div class="media-body" style="display: flex;">
+                        <div style="flex: 0 0 auto; margin-right: 10px;">
+                        <img src="media/StandardModel.png" class="media-object" style="width:45px">
+                      </div>
+                      <div style="flex: 1;">
+                        <h4 class="media-heading">Section 1.1: Particles<small><i>Posted on February 19, 2016</i></small></h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                      </div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="media-body" style="display: flex;">
+                        <div style="flex: 0 0 auto; margin-right: 10px;">
+                        <img src="media/StandardModel.png" class="media-object" style="width:45px">
+                      </div>
+                      <div style="flex: 1;">
+                        <h4 class="media-heading">Section 1.2: Forces<small><i>Posted on February 19, 2016</i></small></h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                      </div>
+                    </div>
+                  </li>
+                </ol> <!-- End ordered list -->
+              </div>
             </div>
-            <div class="media-body">
-                <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
+          </li>
+          <li>
+            <div class="media-body" style="display: flex;">
+              <!-- 2.0 -->
+              <div style="flex: 0 0 auto; margin-right: 10px;">
+                <img src="media/StandardModel.png" class="media-object" style="width:45px">
+              </div>
+              <div style="flex: 1;">
+                <h4 class="media-heading">Chapter 2: Another Chapter <small><i></i></small></h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <!-- 2.1.1 -->
-                <div class="media">
-                <div class="media-left">
-                    <img src="media/StandardModel.png" class="media-object" style="width:45px">
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-                </div>
-                
+                <ol type="none"> <!-- Wrap with ordered list -->
+                  <li>
+                    <div class="media">
+                        <div style="flex: 0 0 auto; margin-right: 10px;">
+                        <img src="media/StandardModel.png" class="media-object" style="width:45px">
+                      </div>
+                      <div style="flex: 1;">
+                        <h4 class="media-heading">Section 2.1: Subsection <small><i>Posted on February 19,</i></small></h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                      </div>
+                    </div>
+                  </li>
+                </ol> <!-- End ordered list -->
+              </div>
             </div>
-            </div>
-            
+          </li>
+          <li>
+      
+      
+    <!--===== FOOTER =====-->
+    <footer class="footer">
+        <p class="footer__title">Taylor</p>
+        <div class="footer__social">
+            <a href="https://www.linkedin.com/in/iftaylorthenhire" class="footer__icon"><i class='bx bxl-linkedin' ></i></a>
+            <a href="https://github.com/TTControls" class="footer__icon"><i class='bx bxl-github' ></i></a>
         </div>
-    </div>
-</div>
-
+    </footer>
 </body>
 </html>
