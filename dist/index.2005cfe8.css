@@ -183,6 +183,38 @@ th, td {
   right: 0;
 }
 
+.collapse, .collapse ul {
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+.collapse li {
+  padding: 10px;
+}
+
+.toggle {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.toggle:before {
+  width: 15px;
+  content: "+";
+  display: inline-block;
+}
+
+.toggle.show:before {
+  content: "-";
+}
+
+.collapse ol {
+  display: none;
+}
+
+.toggle.show + ol {
+  display: block;
+}
+
 .notes_container {
   width: 50%;
   max-width: 800px;
