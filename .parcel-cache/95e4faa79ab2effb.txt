@@ -306,7 +306,7 @@
 70C:\xcode\xgit_repos\taylor's_stuff\thenNotes\TheStandardModel\list.txt133265847189138138 0
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_createRecurry.js133264706522153823 0
 64C:\xcode\xgit_repos\taylor's_stuff\node_modules\xmlchars\xml\1.1133264706484043957 1
-68C:\xcode\xgit_repos\taylor's_stuff\thenNotes\media\StandardModel.png133265544143654901 0
+68C:\xcode\xgit_repos\taylor's_stuff\thenNotes\media\TheStandardModel.png133265544143654901 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\prelude-ls\lib\Num.js133264706472263997 0
 63C:\xcode\xgit_repos\taylor's_stuff\node_modules\whatwg-mimetype133264706467344023 1
 91C:\xcode\xgit_repos\taylor's_stuff\node_modules\istanbul-lib-instrument\node_modules\semver133264706476004007 1
@@ -375,7 +375,7 @@
 71C:\xcode\xgit_repos\taylor's_stuff\node_modules\react-error-overlay\lib133264706463684031 1
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\identity.js133264706535529076 0
 106C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-snapshot\node_modules\semver\ranges\max-satisfying.js133264706490993931 0
-66C:\xcode\xgit_repos\taylor's_stuff\dist\StandardModel.7ba51421.png133266067601122518 0
+66C:\xcode\xgit_repos\taylor's_stuff\dist\TheStandardModel.7ba51421.png133266067601122518 0
 50C:\xcode\xgit_repos\taylor's_stuff\test2\assets\js133264668133777574 1
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\packager-css\lib133264706463714021 1
 68C:\xcode\xgit_repos\taylor's_stuff\test2\assets\images\my-avatar.png133264053008514503 0
