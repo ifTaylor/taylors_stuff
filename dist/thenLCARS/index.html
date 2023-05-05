@@ -104,23 +104,37 @@
 			<div class="wrap" id="gap">
 				<div class="left-frame">
 					<div>
-						<a href="#" onclick="changeMain('main1')">
+						<a href="#" onclick="changeMain('f1')">
 							<div class="panel-3">01<span class="hop">-Notes</span></div>
 						</a>
-						<a href="#" onclick="changeMain('main2')">
+						<a href="#" onclick="changeMain('f2')">
 							<div class="panel-4">02<span class="hop">-Software</span></div>
 						</a>
-						<div class="panel-4">03<span class="hop">-Electrical</span></div>
-						<div class="panel-5">04<span class="hop">-Hydraulic</span></div>
-						<div class="panel-6">05<span class="hop">-Physics</span></div>
-						<div class="panel-7">07<span class="hop">-081940</span></div>
-						<div class="panel-8">08<span class="hop">-47148</span></div>
-						<div class="panel-9">09<span class="hop">-081966</span></div>
-					</div>
-					<div>
-						<div class="panel-10">10<span class="hop">-31</span></div>
-					</div>
-				</div>
+						<a href="#" onclick="changeMain('f3')">
+							<div class="panel-4">03<span class="hop">-Electrical</span></div>
+						</a>
+						<a href="#" onclick="changeMain('f4')">
+							<div class="panel-5">04<span class="hop">-Hydraulic</span></div>
+						</a>
+						  <a href="#" onclick="changeMain('f5')">
+							<div class="panel-6">05<span class="hop">-Physics</span></div>
+						</a>
+						  <a href="#" onclick="changeMain('f6')">
+							<div class="panel-7">07<span class="hop">-081940</span></div>
+						</a>
+						  <a href="#" onclick="changeMain('f7')">
+							<div class="panel-8">08<span class="hop">-47148</span></div>
+						</a>
+						  <a href="#" onclick="changeMain('f8')">
+							<div class="panel-9">09<span class="hop">-081966</span></div>
+						</a>
+						</div>
+						<div>
+						  <a href="#" onclick="changeMain('f9')">
+							<div class="panel-10">10<span class="hop">-31</span></div>
+						</a>
+						</div>
+					  </div>
 				<div class="right-frame">
 					<div class="bar-panel">
 						<div class="bar-6"></div>
@@ -129,24 +143,8 @@
 						<div class="bar-9"></div>
 						<div class="bar-10"></div>
 					</div>
-					<main id="main">
+					<main id="frame1">
 						<!-- Start your default content here. -->
-						<h1>Hello</h1>
-						<h2>Welcome to LCARS <span class="go-tomato">Ultra</span> &#149; Classic Theme</h2>
-						<p>Replace this content with your own.</p>
-						<p>Live long and prosper.</p>
-						<!-- End default content area. -->
-						<footer>
-							<div class="footer-inside">
-								<div class="footer-text">
-									<p>Copyright &#169; 2023 Website Name.</p>
-									<p>LCARS Inspired Website Template by Jim Robertus <a href="https://www.thelcars.com">www.TheLCARS.com</a>.</p>
-								</div>
-							</div>
-							<div class="footer-panel"> <span class="hop">22</span>47 </div>
-						</footer>
-					</main>
-					<main id="main1" style="display: block">
 						<h1>Notes</h1>
 						<h2>Welcome to LCARS <span class="go-tomato">Ultra</span> &#149; Classic Theme</h2>
 						<p>Replace this content with your own.</p>
@@ -162,8 +160,44 @@
 							<div class="footer-panel"> <span class="hop">22</span>47 </div>
 						</footer>
 					</main>
-					<main id="main2" style="display: block">
+					<main id="frame2">
 						<h1>Software</h1>
+						<ul>
+						  <li><a href="#windows">Windows</a></li>
+						  <li><a href="#macos">macOS</a></li>
+						  <li><a href="#linux">Linux</a></li>
+						</ul>
+					  
+						<h2 id="windows">Windows</h2>
+						<p>Windows is a popular operating system used by many people around the world. It is known for its user-friendly interface and compatibility with a wide range of software programs.</p>
+						<ul>
+						  <li>Microsoft Office Suite</li>
+						  <li>Adobe Creative Suite</li>
+						  <li>Google Chrome</li>
+						  <li>Firefox</li>
+						</ul>
+					  
+						<h2 id="macos">macOS</h2>
+						<p>macOS is an operating system designed specifically for Apple computers. It is known for its sleek design and user-friendly interface, as well as its compatibility with a wide range of software programs.</p>
+						<ul>
+						  <li>iMovie</li>
+						  <li>Final Cut Pro</li>
+						  <li>Logic Pro</li>
+						  <li>Xcode</li>
+						</ul>
+					  
+						<h2 id="linux">Linux</h2>
+						<p>Linux is a free and open-source operating system that is known for its stability and security. It is used by many developers and IT professionals because of its powerful command-line interface and ability to customize the system to fit their needs.</p>
+						<ul>
+						  <li>Ubuntu</li>
+						  <li>Debian</li>
+						  <li>Fedora</li>
+						  <li>CentOS</li>
+						</ul>
+					  </main>
+					  
+					<main id="frame3" style="display: block">
+						<h1>Electrical</h1>
 						<h2>Welcome to LCARS <span class="go-tomato">Ultra</span> &#149; Classic Theme</h2>
 						<p>Replace this content with your own.</p>
 						<p>Live long and prosper.</p>
@@ -178,29 +212,62 @@
 							<div class="footer-panel"> <span class="hop">22</span>47 </div>
 						</footer>
 					</main>
+					<main id="frame4" style="display: block">
+						<h1>Hydraulic</h1>
+					</main>
+					<main id="frame5" style="display: block">
+						<h1>-Physics</h1>
+						<img src="/TheStandardModel.eeaf2bfc.png" class="media-object" style="width: 200px">
+					</main>
+					<main id="frame6" style="display: block">
+						<h1>081940</h1>
+					</main>
+					<main id="frame7" style="display: block">
+						<h1>47148</h1>
+					</main>
+					<main id="frame8" style="display: block">
+						<h1>081966</h1>
+					</main>
+					<main id="frame9" style="display: block">
+						<h1>31</h1>
+					</main>
 				</div>
 			</div>
 			
 			<script>function changeMain(id) {
-    var main1 = document.getElementById("main1");
-    var main2 = document.getElementById("main2");
-    var main = document.getElementById("main");
-    if (id === "main1") {
-        main1.style.display = "block";
-        main2.style.display = "none";
-    } else {
-        main1.style.display = "none";
-        main2.style.display = "block";
-    }
-    main.style.display = "none";
+    var frames = {
+        f1: document.getElementById("frame1"),
+        f2: document.getElementById("frame2"),
+        f3: document.getElementById("frame3"),
+        f4: document.getElementById("frame4"),
+        f5: document.getElementById("frame5"),
+        f6: document.getElementById("frame6"),
+        f7: document.getElementById("frame7"),
+        f8: document.getElementById("frame8"),
+        f9: document.getElementById("frame9")
+    };
+    for(var key in frames)if (key === id) frames[key].style.display = "block";
+    else frames[key].style.display = "none";
 }
 
 </script>
 			<script>window.onload = function() {
-    var main1 = document.getElementById("main1");
-    var main2 = document.getElementById("main2");
-    main1.style.display = "none";
-    main2.style.display = "none";
+    var f2 = document.getElementById("frame2");
+    var f3 = document.getElementById("frame3");
+    var f4 = document.getElementById("frame4");
+    var f5 = document.getElementById("frame5");
+    var f6 = document.getElementById("frame6");
+    var f7 = document.getElementById("frame7");
+    var f8 = document.getElementById("frame8");
+    var f9 = document.getElementById("frame9");
+    f2.style.display = "none";
+    f3.style.display = "none";
+    f4.style.display = "none";
+    f5.style.display = "none";
+    f6.style.display = "none";
+    f7.style.display = "none";
+    f8.style.display = "none";
+    f9.style.display = "none";
 };
 
 </script>
