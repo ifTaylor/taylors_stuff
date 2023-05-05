@@ -793,6 +793,26 @@ a:active {
   }
 }
 
+ul {
+  margin: 0;
+  padding: .5em;
+  list-style-type: none;
+}
+
+ul ul {
+  margin-left: 2em;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+}
+
+li:before {
+  content: "•";
+  margin-right: .5em;
+}
+
 .banner {
   text-align: right;
   text-transform: uppercase;
@@ -1171,6 +1191,7 @@ nav a:hover {
 .panel-3, .panel-4, .panel-5, .panel-6, .panel-7, .panel-8 {
   border-bottom: 5px solid #000;
   padding-right: 10px;
+  font-size: 1.2em;
 }
 
 .panel-3:hover, .panel-4:hover, .panel-5:hover, .panel-6:hover, .panel-7:hover, .panel-8:hover {
