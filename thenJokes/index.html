@@ -6,6 +6,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../assets/css/styles.css">
     <script>
         var jokes = [];
         
@@ -92,13 +93,29 @@
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <div class="container">
-        <h1 class="text-center mb-5">Random Jokes Generator</h1>
-        <p class="text-center mb-5">These randomly generated jokes should not be assumed to be politically correct.</p>
-        <div class="text-center">
-            <button class="btn btn-primary btn-lg" style="padding: 20px 40px; font-size: 24px;" onclick="getJoke()"><i class="fas fa-sync-alt"></i> Get Another Joke</button>
-        </div>
-        <div id="joke-container"></div>
-    </div>
+    <header class="2-header">
+        <nav class="nav bd-grid">
+            <div>
+                <a href="../index.html" class="">ifTaylor</a>
+            </div>
+
+            <div class="nav__toggle" id="nav-toggle">
+                <i class='bx bx-menu'></i>
+            </div>
+        </nav>
+    </header>
+    <main class="l-main">
+        <!--===== HOME =====-->
+        <section class="home bd-grid" id="home">
+            <div class="container">
+                <h1 class="text-center mb-5">Random Jokes Generator</h1>
+                <p class="text-center mb-5">These randomly generated jokes should not be assumed to be politically correct.</p>
+                <div class="text-center">
+                    <button class="btn btn-primary btn-lg" style="padding: 20px 40px; font-size: 24px;" onclick="getJoke()"><i class="fas fa-sync-alt"></i> Get Another Joke</button>
+                </div>
+                <div id="joke-container"></div>
+            </div>
+        </section>
+    </main>
 </body>
 </html>
