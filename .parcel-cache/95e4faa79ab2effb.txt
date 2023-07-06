@@ -1,4 +1,4 @@
-14036
+14038
 99C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\nodes\HTMLPreElement-impl.js133264706527559138 0
 57C:\xcode\xgit_repos\taylor's_stuff\node_modules\url-parse133264706475373997 1
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\domutils\lib\index.js133264706469814015 0
@@ -25,7 +25,7 @@
 89C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\no-inner-declarations.js133264706525809128 0
 103C:\xcode\xgit_repos\taylor's_stuff\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133264706505443874 0
 67C:\xcode\xgit_repos\taylor's_stuff\node_modules\reusify\.travis.yml133264706466284016 0
-39C:\xcode\xgit_repos\taylor's_stuff\dist133331378115875347 1
+39C:\xcode\xgit_repos\taylor's_stuff\dist133331392069299975 1
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\xml-name-validator133264706467334021 1
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\optionator\README.md133264706476243993 0
 129C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.js133264706482593963 0
@@ -69,7 +69,7 @@
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\cross-spawn\lib\util133264706475273996 1
 93C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\nodes\Slotable-impl.js133264706534159122 0
 68C:\xcode\xgit_repos\taylor's_stuff\test2\assets\images\project-9.png133264053010244717 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-5.624e866d.png133331378110325301 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-5.624e866d.png133331388049146107 0
 45C:\xcode\xgit_repos\taylor's_stuff\index.html133331376088224484 0
 67C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-cli\build\init133264706489493941 1
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\yargs\locales\de.json133264706497103897 0
@@ -93,7 +93,7 @@
 47C:\xcode\xgit_repos\taylor's_stuff\node_modules133277632770160304 1
 50C:\xcode\xgit_repos\taylor's_stuff\node_modules\ws133264706485553984 1
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\browserslist\error.js133264706469014004 0
-52C:\xcode\xgit_repos\taylor's_stuff\package-lock.json133277839905835997 0
+52C:\xcode\xgit_repos\taylor's_stuff\package-lock.json133331378324081514 0
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\cssom\lib\CSSRule.js133264706478813990 0
 110C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\reusePaths.js133264706507133862 0
 59C:\xcode\xgit_repos\taylor's_stuff\node_modules\type-detect133264706470963992 1
@@ -217,7 +217,7 @@
 71C:\xcode\xgit_repos\taylor's_stuff\node_modules\string-length\readme.md133264706468824012 0
 67C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_nodeUtil.js133264706526629144 0
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\dom-serializer\lib\index.d.ts.map133264706480923981 0
-59C:\xcode\xgit_repos\taylor's_stuff\thenSnowCones\index.html133331377952835843 0
+59C:\xcode\xgit_repos\taylor's_stuff\thenSnowCones\index.html133331392067969953 0
 98C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\selection\Selection-impl.js133264706533829095 0
 50C:\xcode\xgit_repos\taylor's_stuff\thenNotes\media133270918961683322 1
 94C:\xcode\xgit_repos\taylor's_stuff\node_modules\resolve\test\resolver\symlinked\package\bar.js133264706486973941 0
@@ -505,7 +505,7 @@
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\jquery\src\var\getProto.js133264706503473888 0
 71C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\wrapperLodash.js133264706544559072 0
 59C:\xcode\xgit_repos\taylor's_stuff\node_modules\stack-utils133264706467914048 1
-61C:\xcode\xgit_repos\taylor's_stuff\dist\avatar-3.e4ddd3b5.png133331378110385327 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\avatar-3.e4ddd3b5.png133331388049236103 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\file-api133264706514053871 1
 111C:\xcode\xgit_repos\taylor's_stuff\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133264706521193791 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\resolve\test\module_dir.js133264706507923842 0
@@ -620,12 +620,12 @@
 106C:\xcode\xgit_repos\taylor's_stuff\node_modules\js-sdsl\dist\esm\container\TreeContainer\OrderedSet.js.map133264706514223840 0
 90C:\xcode\xgit_repos\taylor's_stuff\node_modules\@sinonjs\commons\types\prototypes\map.d.ts133264706502053894 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\collect-v8-coverage\index.js133264706464054031 0
-61C:\xcode\xgit_repos\taylor's_stuff\dist\avatar-4.39e90134.png133331378110365377 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\avatar-4.39e90134.png133331388049816088 0
 118C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src133264706510693825 1
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\xmlchars\xmlchars.js133264706476054003 0
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\typedarray-to-buffer133264706473724004 1
 103C:\xcode\xgit_repos\taylor's_stuff\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\default.cjs133264706499283930 0
-45C:\xcode\xgit_repos\taylor's_stuff\dist\test2133331378111385314 1
+45C:\xcode\xgit_repos\taylor's_stuff\dist\test2133331388049896104 1
 70C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\assignInWith.js133264706529499127 0
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\cli-engine\index.js133264706513863816 0
 65C:\xcode\xgit_repos\taylor's_stuff\test2\assets\images\blog-5.jpg133264053005554584 0
@@ -753,7 +753,7 @@
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\entities\lib\encode-trie.d.ts133264706491273932 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\traverse\lib\scope\lib133264706505153891 1
 71C:\xcode\xgit_repos\taylor's_stuff\node_modules\sisteransi\src\index.js133264706464454031 0
-58C:\xcode\xgit_repos\taylor's_stuff\dist\index.2005cfe8.css133331378110075332 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\index.2005cfe8.css133331388049136087 0
 80C:\xcode\xgit_repos\taylor's_stuff\node_modules\is-potential-custom-element-name133264706467854030 1
 90C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\helper-split-export-declaration\lib133264706466154040 1
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\text-table\example133264706477443999 1
@@ -772,7 +772,7 @@
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\features\midi.js133264706536449084 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-config\build\Defaults.d.ts133264706488103935 0
 70C:\xcode\xgit_repos\taylor's_stuff\node_modules\ajv\lib\dotjs\oneOf.js133264706503703894 0
-66C:\xcode\xgit_repos\taylor's_stuff\node_modules\.package-lock.json133277839906085993 0
+66C:\xcode\xgit_repos\taylor's_stuff\node_modules\.package-lock.json133331378324371508 0
 55C:\xcode\xgit_repos\taylor's_stuff\node_modules\flatted133264706481933980 1
 80C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\symmetricDifference.js133264706542259058 0
 109C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\types\lib\retrievers\getOuterBindingIdentifiers.js.map133264706521033821 0
@@ -791,7 +791,7 @@
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\nullthrows\nullthrows.d.ts133264706466394025 0
 53C:\xcode\xgit_repos\taylor's_stuff\node_modules\@bcoe133264706437481128 1
 55C:\xcode\xgit_repos\taylor's_stuff\node_modules\@eslint133264706437681109 1
-58C:\xcode\xgit_repos\taylor's_stuff\dist\work3.f6ea9a66.jpg133331378110375350 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\work3.f6ea9a66.jpg133331388049886098 0
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_baseClone.js133264706497443892 0
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\lib\attributes.d.ts.map133264706497793894 0
 70C:\xcode\xgit_repos\taylor's_stuff\node_modules\yargs-parser\README.md133264706481153957 0
@@ -866,7 +866,7 @@
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\signal-exit\README.md133264706468714005 0
 95C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\generated\XMLDocument.js133264706536119087 0
 63C:\xcode\xgit_repos\taylor's_stuff\node_modules\combined-stream133264706469904021 1
-64C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire.9688a49e.js.map133331378111055304 0
+64C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire.9688a49e.js.map133331388049966090 0
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\terser\tools\terser.d.ts133264706507123887 0
 111C:\xcode\xgit_repos\taylor's_stuff\node_modules\parse5\lib\extensions\location-info\open-element-stack-mixin.js133264706489823917 0
 54C:\xcode\xgit_repos\taylor's_stuff\node_modules\base-x133264706469054022 1
@@ -1110,7 +1110,7 @@
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\mimic-fn\readme.md133264706470834016 0
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\isMatchWith.js133264706537019071 0
 73C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_initCloneByTag.js133264706524939136 0
-66C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\TheStandardModel133331378111585287 1
+66C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\TheStandardModel133331388049896104 1
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\msgpackr\dist\index.min.js.map133264706499593921 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\@nodelib\fs.walk\package.json133264706483483960 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_cloneTypedArray.js133264706519253826 0
@@ -1596,7 +1596,7 @@
 106C:\xcode\xgit_repos\taylor's_stuff\node_modules\js-sdsl\dist\esm\container\SequentialContainer\LinkList.js133264706512793830 0
 71C:\xcode\xgit_repos\taylor's_stuff\node_modules\is-fullwidth-code-point133264706470204037 1
 67C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\assign.js133264706529339118 0
-67C:\xcode\xgit_repos\taylor's_stuff\dist\Antonio-Bold.34643b43.woff2133331378108965327 0
+67C:\xcode\xgit_repos\taylor's_stuff\dist\Antonio-Bold.34643b43.woff2133331388049766070 0
 90C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node133264706480693997 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\v8-to-istanbul\lib\line.js133264706469533991 0
 95C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\transformer-json\src\JSONTransformer.js133264706467264013 0
@@ -1683,7 +1683,7 @@
 60C:\xcode\xgit_repos\taylor's_stuff\node_modules\terser\tools133264706507083876 1
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\json5\lib\stringify.d.ts133264706487523947 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\istanbul-lib-report\lib\watermarks.js133264706478024035 0
-67C:\xcode\xgit_repos\taylor's_stuff\dist\StandardModel3.86b8988a.png133331378111135322 0
+67C:\xcode\xgit_repos\taylor's_stuff\dist\StandardModel3.86b8988a.png133331388049986097 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\babel-plugin-istanbul\LICENSE133264706462134035 0
 57C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-diff133264706482443961 1
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-util\LICENSE133264706462184021 0
@@ -1827,6 +1827,7 @@
 58C:\xcode\xgit_repos\taylor's_stuff\node_modules\micromatch133264706468194001 1
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\features\webusb.js133264706542359110 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\uri-js\dist\esnext\schemes\https.d.ts133264706500543896 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\snowcone.ecfee8d4.png133331388049776075 0
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\convert.js133264706531419157 0
 55C:\xcode\xgit_repos\taylor's_stuff\node_modules\mime-db133264706477023979 1
 99C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\websockets\WebSocket-impl.js133264706535819096 0
@@ -1894,7 +1895,7 @@
 67C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_reEscape.js133264706527009151 0
 56C:\xcode\xgit_repos\taylor's_stuff\node_modules\p-locate133264706470343998 1
 80C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\sort-imports.js133264706532539113 0
-49C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS133331378111385314 1
+49C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS133331388049986097 1
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\packager-js\lib\helpers.js133264706481693943 0
 99C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\esm\index.d.ts133264706507153869 0
 53C:\xcode\xgit_repos\taylor's_stuff\node_modules\p-try133264706470204037 1
@@ -2863,7 +2864,7 @@
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\v8-to-istanbul\README.md133264706479354006 0
 64C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\repeat.js133264706540769072 0
 87C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-worker\node_modules\supports-color133264706470674000 1
-71C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\notes.c4816bb1.js.map133331378110065342 0
+71C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\notes.c4816bb1.js.map133331388049966090 0
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\v8-to-istanbul\node_modules\source-map133264706486373947 1
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-tree\lib\syntax\scope\index.js133264706525089140 0
 105C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo-node.js133264706507883869 0
@@ -3539,7 +3540,7 @@
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-runtime\build\index.d.ts133264706476823991 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\acorn-globals\node_modules133264706545629069 1
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\trim.js133264706543299053 0
-58C:\xcode\xgit_repos\taylor's_stuff\dist\gluon.e7e374c2.png133331378110335319 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\gluon.e7e374c2.png133331388049236103 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\svgo\plugins\convertPathData.js133264706487583953 0
 57C:\xcode\xgit_repos\taylor's_stuff\node_modules\csso\dist133264706511863851 1
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\expect\build\jestMatchersObject.js133264706473883978 0
@@ -3642,7 +3643,7 @@
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\svgo\lib\style.js133264706506423859 0
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_createBaseFor.js133264706520923802 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\file-entry-cache\README.md133264706471974013 0
-72C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.1c191f30.css.map133331378110585322 0
+72C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.1c191f30.css.map133331388049786087 0
 61C:\xcode\xgit_repos\taylor's_stuff\node_modules\svgo\lib\svgo133264706509983832 1
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\react-refresh\cjs133264706474273987 1
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\js-yaml\lib\schema133264706486943936 1
@@ -3939,7 +3940,7 @@
 63C:\xcode\xgit_repos\taylor's_stuff\node_modules\slash\readme.md133264706471163997 0
 100C:\xcode\xgit_repos\taylor's_stuff\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Block.cjs133264706479713998 0
 91C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-tree\cjs\syntax\node\common\feature.cjs133264706501073913 0
-70C:\xcode\xgit_repos\taylor's_stuff\dist\taylor's_stuff.3464ddca.js.map133331378110675319 0
+70C:\xcode\xgit_repos\taylor's_stuff\dist\taylor's_stuff.3464ddca.js.map133331388049526095 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\resolve.exports\dist\index.js133264706464604012 0
 94C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\generated\NodeFilter.js133264706531989113 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\html-escaper\test\index.js133264706470474009 0
@@ -4021,7 +4022,7 @@
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_safeGet.js133264706527369148 0
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\sass\types\importer.d.ts133264706509233856 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\csso\cjs\compress.cjs133264706486443969 0
-67C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.5717d55c.js133331378110765320 0
+67C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.5717d55c.js133331388049796084 0
 93C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\types\lib\converters\toKeyAlias.js.map133264706509953837 0
 61C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\get.js133264706535229104 0
 113C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\types\lib\modifications\typescript\removeTypeDuplicates.js133264706520523816 0
@@ -4522,7 +4523,7 @@
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\domutils\lib\manipulation.d.ts133264706489733937 0
 104C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts.map133264706498973891 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\GN.js133264706531919092 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\proton.7db3093e.png133331378110485318 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\proton.7db3093e.png133331388049916090 0
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\popper.js\dist\umd\popper-utils.js133264706499783908 0
 106C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\domutils\lib\manipulation.d.ts.map133264706499373889 0
 88C:\xcode\xgit_repos\taylor's_stuff\node_modules\@jest\core\build\ReporterDispatcher.d.ts133264706507413848 0
@@ -4585,6 +4586,7 @@
 122C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\addClassesToSVGElement.js133264706478483982 0
 99C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\dist\esm\dom-utils\isTableElement.js133264706527519124 0
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\prompts\dist\dateparts\milliseconds.js133264706500353902 0
+58C:\xcode\xgit_repos\taylor's_stuff\assets\img\snowcone.png133331386596763877 0
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\types\lib133264706476924035 1
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\prompts\dist\dateparts\minutes.js133264706501003885 0
 62C:\xcode\xgit_repos\taylor's_stuff\node_modules\.bin\json5.ps1133264706546099044 0
@@ -4664,7 +4666,7 @@
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\KE.js133264706534599113 0
 71C:\xcode\xgit_repos\taylor's_stuff\node_modules\prettier\parser-html.js133264706507673870 0
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\arrow-spacing.js133264706484163952 0
-61C:\xcode\xgit_repos\taylor's_stuff\dist\icon-app.1c5bdace.svg133331378109725337 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\icon-app.1c5bdace.svg133331388049796084 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\@types\node\repl.d.ts133264706504913893 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\shared\types.js133264706533289126 0
 75C:\xcode\xgit_repos\taylor's_stuff\node_modules\prettier\parser-markdown.js133264706508183846 0
@@ -4700,7 +4702,7 @@
 71C:\xcode\xgit_repos\taylor's_stuff\node_modules\prelude-ls\package.json133264706477063996 0
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\prelude-ls\README.md133264706479284006 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\csso\lib\restructure\index.js133264706509493846 0
-58C:\xcode\xgit_repos\taylor's_stuff\dist\work1.2f61f2f1.jpg133331378111305303 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\work1.2f61f2f1.jpg133331388049766070 0
 97C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\dist\esm\utils\getBasePlacement.js133264706528659119 0
 63C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\unary.js133264706543509047 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\chokidar\node_modules133264706437841117 1
@@ -4773,7 +4775,7 @@
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\assignWith.js133264706529539098 0
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\join.js133264706537709081 0
 92C:\xcode\xgit_repos\taylor's_stuff\node_modules\popper.js\src\utils\getBoundingClientRect.js133264706509133838 0
-58C:\xcode\xgit_repos\taylor's_stuff\dist\work2.a516a838.jpg133331378110325301 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\work2.a516a838.jpg133331388049226097 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-diff\build\diffLines.js133264706469964009 0
 99C:\xcode\xgit_repos\taylor's_stuff\node_modules\popper.js\src\utils\getFixedPositionOffsetParent.js133264706509653866 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\popper.js\src\utils\getOffsetRect.js133264706510013872 0
@@ -4990,7 +4992,7 @@
 131C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\specificity.js133264706501973879 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\parse5\lib\parser\index.js133264706482263956 0
 87C:\xcode\xgit_repos\taylor's_stuff\node_modules\parse5\lib\parser\open-element-stack.js133264706490593943 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-2.ea3e620e.png133331378110395328 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-2.ea3e620e.png133331388049236103 0
 75C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\reporter-dev-server133264706489513931 1
 61C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\nth.js133264706539149072 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\make-dir\package.json133264706466104019 0
@@ -5002,7 +5004,7 @@
 109C:\xcode\xgit_repos\taylor's_stuff\node_modules\parse5\lib\extensions\position-tracking\preprocessor-mixin.js133264706497123897 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-diff\build\constants.js133264706467394070 0
 107C:\xcode\xgit_repos\taylor's_stuff\node_modules\parse5\lib\extensions\error-reporting\preprocessor-mixin.js133264706496643893 0
-61C:\xcode\xgit_repos\taylor's_stuff\dist\avatar-2.9237baa6.png133331378110835342 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\avatar-2.9237baa6.png133331388049526095 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\domutils\lib\helpers.d.ts.map133264706481403994 0
 104C:\xcode\xgit_repos\taylor's_stuff\node_modules\parse5\lib\extensions\error-reporting\tokenizer-mixin.js133264706497633902 0
 73C:\xcode\xgit_repos\taylor's_stuff\node_modules\jquery\src\traversing\var133264706513503851 1
@@ -5720,7 +5722,7 @@
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-tree\cjs\definition-syntax133264706519303836 1
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\UG.js133264706541279065 0
 104C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableCellElement.js133264706528849123 0
-65C:\xcode\xgit_repos\taylor's_stuff\dist\thenSnowCones.cebf9baf.js133331378110315288 0
+65C:\xcode\xgit_repos\taylor's_stuff\dist\thenSnowCones.cebf9baf.js133331392069280194 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\core\src\projectPath.js133264706514393849 0
 64C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\isNull.js133264706537199073 0
 107C:\xcode\xgit_repos\taylor's_stuff\node_modules\js-sdsl\dist\esm\container\SequentialContainer\Deque.js.map133264706512573865 0
@@ -5734,7 +5736,7 @@
 73C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\watcher\prebuilds133264706505013867 1
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\isString.js133264706537489089 0
 103C:\xcode\xgit_repos\taylor's_stuff\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\import.cjs133264706503983895 0
-70C:\xcode\xgit_repos\taylor's_stuff\dist\the_standard_model.7870410c.js133331378110225304 0
+70C:\xcode\xgit_repos\taylor's_stuff\dist\the_standard_model.7870410c.js133331388049466091 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\lib\config\files\index.js133264706489023928 0
 96C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_possible_constructor_return.js133264706506613894 0
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\isSymbol.js133264706537509074 0
@@ -6056,7 +6058,7 @@
 105C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\domutils\lib\esm\traversal.js.map133264706502963929 0
 107C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\nodes\ElementContentEditable-impl.js133264706511183859 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\is-json\test\index.js133264706475033999 0
-69C:\xcode\xgit_repos\taylor's_stuff\dist\TheStandardModel.d259d25a.png133331378110505480 0
+69C:\xcode\xgit_repos\taylor's_stuff\dist\TheStandardModel.d259d25a.png133331388049296080 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\chrome-trace-event\README.md133264706472013990 0
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\_baseNth.js133264706510133845 0
 63C:\xcode\xgit_repos\taylor's_stuff\node_modules\agent-base\dist133264706460624042 1
@@ -6329,7 +6331,7 @@
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\drop.js133264706532589104 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\dropLast.js133264706532629110 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\dropLastWhile.js133264706532659112 0
-65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-1-color.45d9f408.png133331378110325301 0
+65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-1-color.45d9f408.png133331388049146107 0
 70C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\dropWhile.js133264706532839110 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\codeframe\test\fixtures\a.js133264706465144021 0
 67C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\escape.js133264706533249227 0
@@ -6510,7 +6512,7 @@
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\reduceRight.js133264706540639070 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\utils\src\progress-message.js133264706506013863 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\json5\lib\register.js133264706476293987 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-6.ee75c1ea.png133331378110905328 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-6.ee75c1ea.png133331388049616098 0
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\reporter-cli\src133264706482823953 1
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\packager-html133264706469854012 1
 73C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-watcher\package.json133264706482493992 0
@@ -6563,7 +6565,7 @@
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-diff\build\types.js133264706480753986 0
 125C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\selector.js133264706513873822 0
 66C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\sumBy.js133264706542219066 0
-58C:\xcode\xgit_repos\taylor's_stuff\dist\work5.182cbbb0.jpg133331378110405309 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\work5.182cbbb0.jpg133331388049236103 0
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\symmetricDifferenceBy.js133264706542269051 0
 97C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\lib\transformation\util\clone-deep.js133264706514253838 0
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\transformer-babel\lib\types.js133264706485903940 0
@@ -6580,7 +6582,7 @@
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\cache\lib\IDBCache.js133264706474493967 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\template.js133264706542579050 0
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\htmlnano\lib\presets133264706497173890 1
-68C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.d6bb58b7.css.map133331378110525332 0
+68C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.d6bb58b7.css.map133331388049776075 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\SM.js133264706539689080 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\lodash\fp\templateSettings.js133264706542619046 0
 92C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\helpers\_text-truncation.scss133264706530019114 0
@@ -6689,7 +6691,7 @@
 61C:\xcode\xgit_repos\taylor's_stuff\node_modules\escalade\sync133264706477553997 1
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\lmdb\util\RangeIterable.js133264706515403825 0
 92C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\implicit-arrow-linebreak.js133264706513263832 0
-66C:\xcode\xgit_repos\taylor's_stuff\dist\Antonio-Bold.9426e715.woff133331378108965327 0
+66C:\xcode\xgit_repos\taylor's_stuff\dist\Antonio-Bold.9426e715.woff133331388049226097 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\highlight\README.md133264706464004029 0
 91C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\window\navigation.js133264706531519130 0
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\transformer-babel\src\utils.js133264706487823946 0
@@ -6932,7 +6934,7 @@
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\node.js133264706531979104 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\nodes133264706536079111 1
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\range133264706534179123 1
-62C:\xcode\xgit_repos\taylor's_stuff\dist\quarks.dacde40c.js.map133331378110475301 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\quarks.dacde40c.js.map133331388049466091 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\svg133264706535039094 1
 80C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\traversal133264706535379091 1
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\@types\yargs-parser\index.d.ts133264706466134017 0
@@ -7172,7 +7174,7 @@
 62C:\xcode\xgit_repos\taylor's_stuff\node_modules\deepmerge\dist133264706473134018 1
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\RU.js133264706539059090 0
 99C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\generated\HTMLHtmlElement.js133264706524939136 0
-63C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.209089f6.js133331378110335319 0
+63C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.209089f6.js133331388049136087 0
 101C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\generated\HTMLIFrameElement.js133264706525119157 0
 100C:\xcode\xgit_repos\taylor's_stuff\node_modules\jsdom\lib\jsdom\living\generated\HTMLInputElement.js133264706525369164 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\reporter-cli\src\logLevels.js133264706481193965 0
@@ -7422,7 +7424,7 @@
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\js-tokens\LICENSE133264706468804015 0
 94C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-snapshot\node_modules\semver\package.json133264706502813896 0
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\jquery\bower.json133264706519273806 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\index.2005cfe8.css.map133331378110385327 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\index.2005cfe8.css.map133331388049466091 0
 70C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-worker\build\base133264706485283960 1
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\expect\build\index.js133264706469404022 0
 70C:\xcode\xgit_repos\taylor's_stuff\node_modules\js-tokens\package.json133264706462104029 0
@@ -7853,7 +7855,7 @@
 117C:\xcode\xgit_repos\taylor's_stuff\node_modules\@istanbuljs\load-nyc-config\node_modules\argparse\lib\action\count.js133264706479993965 0
 93C:\xcode\xgit_repos\taylor's_stuff\node_modules\cssstyle\lib\properties\textUnderlineColor.js133264706508423850 0
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-validate\build\utils.d.ts133264706488293947 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-9.e462b457.png133331378111305303 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-9.e462b457.png133331388049766070 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-validate\build\utils.js133264706477973991 0
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-validate\build\validate.d.ts133264706489103946 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-validate\build\validate.js133264706479043978 0
@@ -8190,7 +8192,7 @@
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_class_call_check.js133264706485373953 0
 83C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-haste-map\build\constants.d.ts133264706490523930 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-haste-map\build\crawlers133264706499403918 1
-60C:\xcode\xgit_repos\taylor's_stuff\dist\neutron.d422d94f.png133331378110515312 0
+60C:\xcode\xgit_repos\taylor's_stuff\dist\neutron.d422d94f.png133331388049346089 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\@types\babel__core\README.md133264706463914018 0
 113C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js133264706482233978 0
 83C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-haste-map\build\getMockName.js133264706477164011 0
@@ -8320,7 +8322,7 @@
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-config\build\validatePattern.d.ts133264706498093875 0
 80C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-config\build\ValidConfig.js133264706485693927 0
 70C:\xcode\xgit_repos\taylor's_stuff\node_modules\is-core-module\LICENSE133264706465774050 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\gluons.32b9ebce.png133331378111365304 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\gluons.32b9ebce.png133331388049776075 0
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\runtime-js\src\helpers133264706501213895 1
 60C:\xcode\xgit_repos\taylor's_stuff\node_modules\jest-cli\bin133264706478843977 1
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\fast-json-stable-stringify\index.d.ts133264706483813947 0
@@ -8477,7 +8479,7 @@
 101C:\xcode\xgit_repos\taylor's_stuff\node_modules\istanbul-lib-instrument\node_modules\semver\README.md133264706476623985 0
 101C:\xcode\xgit_repos\taylor's_stuff\node_modules\istanbul-lib-instrument\node_modules\semver\semver.js133264706471473994 0
 105C:\xcode\xgit_repos\taylor's_stuff\node_modules\istanbul-lib-instrument\node_modules\semver\bin\semver.js133264706467194025 0
-69C:\xcode\xgit_repos\taylor's_stuff\dist\thenSnowCones.cebf9baf.js.map133331378110625301 0
+69C:\xcode\xgit_repos\taylor's_stuff\dist\thenSnowCones.cebf9baf.js.map133331392069299975 0
 100C:\xcode\xgit_repos\taylor's_stuff\node_modules\istanbul-lib-instrument\node_modules\.bin\semver.ps1133264706546069054 0
 88C:\xcode\xgit_repos\taylor's_stuff\node_modules\csso\node_modules\css-tree\cjs\tokenizer133264706514493846 1
 73C:\xcode\xgit_repos\taylor's_stuff\node_modules\istanbul-lib-coverage\lib133264706475203976 1
@@ -8598,7 +8600,7 @@
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\iconv-lite\encodings\tables\cp936.json133264706483433942 0
 91C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\modifiers\applyStyles.js133264706520973823 0
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\iconv-lite\encodings\tables\cp949.json133264706484353993 0
-45C:\xcode\xgit_repos\taylor's_stuff\assets\img133264712232287480 1
+45C:\xcode\xgit_repos\taylor's_stuff\assets\img133331386596643824 1
 98C:\xcode\xgit_repos\taylor's_stuff\node_modules\csso\node_modules\css-tree\cjs\tokenizer\types.cjs133264706514033842 0
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\iconv-lite\encodings\tables\eucjp.json133264706486373947 0
 67C:\xcode\xgit_repos\taylor's_stuff\node_modules\human-signals\build133264706463304032 1
@@ -8714,7 +8716,7 @@
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\htmlnano\docs\docs\010-introduction.md133264706503973893 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\expect\build\jestMatchersObject.d.ts133264706487254054 0
 80C:\xcode\xgit_repos\taylor's_stuff\node_modules\htmlnano\docs\docs\030-config.md133264706505363881 0
-68C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.ff442673.css133331378110335319 0
+68C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.ff442673.css133331388049466091 0
 119C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\types\lib\builders\flow\createTypeAnnotationBasedOnTypeof.js.map133264706486893946 0
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\htmlnano\docs\docs\050-modules.md133264706506483873 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\htmlnano\docs\docs\060-contribute.md133264706507193873 0
@@ -8762,7 +8764,7 @@
 68C:\xcode\xgit_repos\taylor's_stuff\node_modules\globals\package.json133264706470073995 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\ansi-styles\readme.md133264706468994002 0
 65C:\xcode\xgit_repos\taylor's_stuff\node_modules\globals\readme.md133264706472854005 0
-69C:\xcode\xgit_repos\taylor's_stuff\dist\Antonio-Regular.ecfb7af6.woff133331378108965327 0
+69C:\xcode\xgit_repos\taylor's_stuff\dist\Antonio-Regular.ecfb7af6.woff133331388049886098 0
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\glob-parent\package.json133264706466334016 0
 127C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax\tokenizer.js133264706515053819 0
 69C:\xcode\xgit_repos\taylor's_stuff\node_modules\glob-parent\README.md133264706468963987 0
@@ -9082,7 +9084,7 @@
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\core\lib\public\BundleGroup.js133264706502793876 0
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\popper.d.ts133264706486903938 0
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\getter-return.js133264706511833866 0
-53C:\xcode\xgit_repos\taylor's_stuff\dist\thenSnowCones133331378110325301 1
+53C:\xcode\xgit_repos\taylor's_stuff\dist\thenSnowCones133331392069129942 1
 87C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\handle-callback-err.js133264706512413865 0
 126C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeAttributesBySelector.js133264706501473904 0
 80C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\id-blacklist.js133264706512713815 0
@@ -9206,7 +9208,7 @@
 96C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\no-unmodified-loop-condition.js133264706529489113 0
 87C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\no-unreachable-loop.js133264706529539098 0
 102C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\domutils\lib\querying.d.ts.map133264706500493899 0
-60C:\xcode\xgit_repos\taylor's_stuff\dist\Leptons.4c660823.png133331378110605312 0
+60C:\xcode\xgit_repos\taylor's_stuff\dist\Leptons.4c660823.png133331388049436106 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\no-unsafe-finally.js133264706529609129 0
 99C:\xcode\xgit_repos\taylor's_stuff\node_modules\eslint\lib\rules\no-unused-private-class-members.js133264706529799103 0
 91C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\workers\src\threads\ThreadsChild.js133264706499163898 0
@@ -9438,10 +9440,10 @@
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\features\ruby.js133264706539089048 0
 71C:\xcode\xgit_repos\taylor's_stuff\node_modules\domutils\lib\index.d.ts133264706488093941 0
 75C:\xcode\xgit_repos\taylor's_stuff\node_modules\domutils\lib\index.d.ts.map133264706482413978 0
-61C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS.715301d6.js133331378110125295 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS.715301d6.js133331388049136087 0
 116C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\minifyStyles.js133264706498643901 0
 72C:\xcode\xgit_repos\taylor's_stuff\node_modules\domutils\lib\legacy.d.ts133264706489223945 0
-65C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS.715301d6.js.map133331378110475301 0
+65C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS.715301d6.js.map133331388049466091 0
 78C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\core\src\Validation.js133264706522433809 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\domutils\lib\legacy.d.ts.map133264706483113948 0
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\domutils\lib\manipulation.d.ts.map133264706483753971 0
@@ -9471,7 +9473,7 @@
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\domexception\webidl2js-wrapper.js133264706470923997 0
 97C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\runtime-js\lib\helpers\bundle-manifest.js133264706468564033 0
 103C:\xcode\xgit_repos\taylor's_stuff\node_modules\domexception\node_modules\webidl-conversions\LICENSE.md133264706464344060 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-4.23e68afe.png133331378111335297 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-4.23e68afe.png133331388049806084 0
 102C:\xcode\xgit_repos\taylor's_stuff\node_modules\domexception\node_modules\webidl-conversions\README.md133264706466464031 0
 105C:\xcode\xgit_repos\taylor's_stuff\node_modules\domexception\node_modules\webidl-conversions\lib\index.js133264706470174017 0
 80C:\xcode\xgit_repos\taylor's_stuff\node_modules\domexception\lib\DOMException.js133264706475463999 0
@@ -9658,7 +9660,7 @@
 96C:\xcode\xgit_repos\taylor's_stuff\node_modules\cssstyle\lib\properties\webkitColumnRuleColor.js133264706509983832 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\cssom\lib\CSSFontFaceRule.js133264706466754122 0
 98C:\xcode\xgit_repos\taylor's_stuff\node_modules\cssstyle\lib\properties\webkitTapHighlightColor.js133264706510303857 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\QuarksGRB.93a60d70.png133331378110625301 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\QuarksGRB.93a60d70.png133331388049536111 0
 93C:\xcode\xgit_repos\taylor's_stuff\node_modules\@bcoe\v8-coverage\dist\lib\_src\range-tree.ts133264706504013886 0
 130C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133264706510833857 0
 98C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib133264706499863882 1
@@ -10176,7 +10178,7 @@
 115C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.d.ts133264706505443874 0
 109C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js133264706483273974 0
 113C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js.map133264706501063929 0
-57C:\xcode\xgit_repos\taylor's_stuff\dist\notes.00ff7aee.js133331378110345313 0
+57C:\xcode\xgit_repos\taylor's_stuff\dist\notes.00ff7aee.js133331388049146107 0
 102C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\esm\encode.js.map133264706502273909 0
 104C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\esm\escape.d.ts.map133264706502763896 0
 102C:\xcode\xgit_repos\taylor's_stuff\node_modules\css-select\node_modules\entities\lib\esm\escape.js.map133264706503163870 0
@@ -10483,7 +10485,7 @@
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\KY.js133264706535079093 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\KZ.js133264706535109098 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\LA.js133264706535139107 0
-57C:\xcode\xgit_repos\taylor's_stuff\dist\logo.835f6267.ico133331378108965327 0
+57C:\xcode\xgit_repos\taylor's_stuff\dist\logo.835f6267.ico133331388049776075 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\LB.js133264706535179087 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\caniuse-lite\data\regions\LS.js133264706535589081 0
 87C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\transformer-babel\lib\config.js133264706476993993 0
@@ -11076,7 +11078,7 @@
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_alert.scss133264706527369148 0
 74C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_badge.scss133264706527529131 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_breadcrumb.scss133264706527659158 0
-65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-2-color.1ee57e60.png133331378110835342 0
+65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-2-color.1ee57e60.png133331388049526095 0
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_button-group.scss133264706527739143 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_buttons.scss133264706527779142 0
 73C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_card.scss133264706527869134 0
@@ -11086,7 +11088,7 @@
 73C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_grid.scss133264706529079105 0
 76C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_helpers.scss133264706529139103 0
 75C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_images.scss133264706529189113 0
-70C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire\index.fc2f7771.js.map133331378110625301 0
+70C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire\index.fc2f7771.js.map133331388049776075 0
 79C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_list-group.scss133264706529269122 0
 73C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_maps.scss133264706529329127 0
 75C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\_mixins.scss133264706529359104 0
@@ -11134,7 +11136,7 @@
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\mixins\_transition.scss133264706530259115 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\mixins\_utilities.scss133264706530479077 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\helpers\_clearfix.scss133264706528049147 0
-67C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\notes.c4816bb1.js133331378109755315 0
+67C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\notes.c4816bb1.js133331388049796084 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\helpers\_color-bg.scss133264706528349132 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\helpers\_position.scss133264706529619106 0
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\bootstrap\scss\helpers\_ratio.scss133264706529689115 0
@@ -11261,7 +11263,7 @@
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\balanced-match\.github\FUNDING.yml133264706471623996 0
 88C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\plugin-syntax-import-meta\LICENSE133264706461944011 0
 75C:\xcode\xgit_repos\taylor's_stuff\node_modules\babel-preset-jest\README.md133264706468694010 0
-65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-5-color.ac8660e7.png133331378111305303 0
+65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-5-color.ac8660e7.png133331388049766070 0
 88C:\xcode\xgit_repos\taylor's_stuff\node_modules\babel-preset-current-node-syntax\LICENSE133264706461964031 0
 90C:\xcode\xgit_repos\taylor's_stuff\node_modules\babel-preset-current-node-syntax\README.md133264706463914018 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\modifiers\flip.js133264706521983782 0
@@ -11744,7 +11746,7 @@
 89C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_class_name_tdz_error.js133264706487693943 0
 100C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_class_private_field_destructure.js133264706488663951 0
 92C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_class_private_field_get.js133264706489323938 0
-72C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.ff442673.css.map133331378110655300 0
+72C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.ff442673.css.map133331388049796084 0
 93C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_class_private_field_init.js133264706489843926 0
 95C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\dom-utils\getDocumentRect.js133264706512443844 0
 98C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_class_private_field_loose_key.js133264706490963934 0
@@ -11790,7 +11792,7 @@
 88C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_object_spread_props.js133264706506053862 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_read_only_error.js133264706506773862 0
 94C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_skip_first_generator_next.js133264706507353868 0
-50C:\xcode\xgit_repos\taylor's_stuff\dist\index.html133331378110345313 0
+50C:\xcode\xgit_repos\taylor's_stuff\dist\index.html133331386747109655 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_sliced_to_array.js133264706507503860 0
 90C:\xcode\xgit_repos\taylor's_stuff\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js133264706507683869 0
 122C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Identifier.js133264706505353868 0
@@ -11950,7 +11952,7 @@
 97C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.d.ts133264706514463846 0
 87C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\helper-hoist-variables\README.md133264706463994020 0
 95C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.js133264706514553860 0
-56C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.html133331378111345282 0
+56C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.html133331388049796084 0
 100C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.js.flow133264706514643840 0
 97C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\dom-utils\getViewportRect.d.ts133264706514713830 0
 100C:\xcode\xgit_repos\taylor's_stuff\node_modules\@popperjs\core\lib\dom-utils\getViewportRect.js.flow133264706514913824 0
@@ -12935,7 +12937,7 @@
 97C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\src\config\resolve-targets-browser.ts133264706518933808 0
 91C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133264706470574000 0
 131C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src\test.js133264706510483839 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-3.3518d7db.jpg133331378110375350 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-3.3518d7db.jpg133331388049816088 0
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\@humanwhocodes\module-importer\src133264706474063980 1
 121C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\bar.js133264706479203966 0
 121C:\xcode\xgit_repos\taylor's_stuff\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\foo.js133264706496763877 0
@@ -13188,7 +13190,7 @@
 88C:\xcode\xgit_repos\taylor's_stuff\node_modules\@nodelib\fs.stat\out\providers\sync.d.ts133264706484813952 0
 83C:\xcode\xgit_repos\taylor's_stuff\node_modules\@nodelib\fs.stat\out\adapters\fs.js133264706469614025 0
 77C:\xcode\xgit_repos\taylor's_stuff\node_modules\@nodelib\fs.scandir\README.md133264706483183940 0
-58C:\xcode\xgit_repos\taylor's_stuff\dist\quarks.dacde40c.js133331378110125295 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\quarks.dacde40c.js133331388049136087 0
 86C:\xcode\xgit_repos\taylor's_stuff\node_modules\@nodelib\fs.scandir\out\constants.d.ts133264706485153957 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\@nodelib\fs.scandir\out\constants.js133264706471234005 0
 81C:\xcode\xgit_repos\taylor's_stuff\node_modules\@nodelib\fs.scandir\out\providers133264706489723938 1
@@ -13243,7 +13245,7 @@
 92C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\types\lib\definitions\experimental.js133264706511873849 0
 97C:\xcode\xgit_repos\taylor's_stuff\node_modules\@jridgewell\trace-mapping\dist\types\resolve.d.ts133264706482503968 0
 94C:\xcode\xgit_repos\taylor's_stuff\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133264706483173960 0
-60C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire.9688a49e.js133331378110765320 0
+60C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire.9688a49e.js133331388049676082 0
 107C:\xcode\xgit_repos\taylor's_stuff\node_modules\@jridgewell\trace-mapping\dist\types\sourcemap-segment.d.ts133264706483813947 0
 103C:\xcode\xgit_repos\taylor's_stuff\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133264706485153957 0
 95C:\xcode\xgit_repos\taylor's_stuff\node_modules\@jridgewell\trace-mapping\dist\types\types.d.ts133264706485723937 0
@@ -13498,7 +13500,7 @@
 82C:\xcode\xgit_repos\taylor's_stuff\node_modules\@eslint\eslintrc\lib\shared\ajv.js133264706475663996 0
 99C:\xcode\xgit_repos\taylor's_stuff\node_modules\@eslint\eslintrc\lib\shared\deprecation-warnings.js133264706485473937 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\@eslint\eslintrc\lib\shared\naming.js133264706490833941 0
-60C:\xcode\xgit_repos\taylor's_stuff\dist\PiMeson.f645d438.png133331378111305303 0
+60C:\xcode\xgit_repos\taylor's_stuff\dist\PiMeson.f645d438.png133331388049766070 0
 103C:\xcode\xgit_repos\taylor's_stuff\node_modules\@eslint\eslintrc\lib\shared\relative-module-resolver.js133264706491853923 0
 84C:\xcode\xgit_repos\taylor's_stuff\node_modules\@eslint\eslintrc\lib\shared\types.js133264706496803878 0
 97C:\xcode\xgit_repos\taylor's_stuff\node_modules\@eslint\eslintrc\lib\config-array\config-array.js133264706481364004 0
@@ -13782,7 +13784,7 @@
 96C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\helpers\lib\helpers\defineAccessor.js.map133264706498033911 0
 102C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\helpers\lib\helpers\iterableToArrayLimit.js.map133264706498823893 0
 85C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\helpers\lib\helpers\jsx.js.map133264706499893904 0
-61C:\xcode\xgit_repos\taylor's_stuff\dist\notes.00ff7aee.js.map133331378110675319 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\notes.00ff7aee.js.map133331388049526095 0
 91C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\helpers\lib\helpers\objectSpread2.js133264706500143892 0
 95C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\helpers\lib\helpers\objectSpread2.js.map133264706500473902 0
 96C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\helpers\lib\helpers\regeneratorRuntime.js133264706500883897 0
@@ -13925,7 +13927,7 @@
 87C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\lib\config\files\import.cjs133264706486203961 0
 91C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\lib\config\files\import.cjs.map133264706486643950 0
 93C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\lib\config\files\index-browser.js133264706487153959 0
-74C:\xcode\xgit_repos\taylor's_stuff\dist\the_standard_model.7870410c.js.map133331378110555314 0
+74C:\xcode\xgit_repos\taylor's_stuff\dist\the_standard_model.7870410c.js.map133331388049786087 0
 89C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\lib\config\files\index.js.map133264706489563948 0
 96C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\lib\config\files\module-types.js.map133264706490853937 0
 87C:\xcode\xgit_repos\taylor's_stuff\node_modules\@babel\core\lib\config\files\package.js133264706491273932 0
@@ -13985,50 +13987,50 @@
 61C:\xcode\xgit_repos\taylor's_stuff\node_modules\.bin\svgo.ps1133264706546139049 0
 63C:\xcode\xgit_repos\taylor's_stuff\node_modules\.bin\terser.cmd133264706546129053 0
 63C:\xcode\xgit_repos\taylor's_stuff\node_modules\.bin\terser.ps1133264706546119029 0
-70C:\xcode\xgit_repos\taylor's_stuff\dist\Antonio-Regular.e6575318.woff2133331378108965327 0
-61C:\xcode\xgit_repos\taylor's_stuff\dist\avatar-1.e2f42a37.png133331378110325301 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-1.caf1a197.jpg133331378110325301 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-2.b0b0e785.jpg133331378110845352 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-3.baf4f4d3.jpg133331378110505480 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-4.9e64574d.jpg133331378110385327 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-5.551bf442.jpg133331378111305303 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-6.d97cac18.jpg133331378110325301 0
-58C:\xcode\xgit_repos\taylor's_stuff\dist\higgs.bc2c6b4a.png133331378110835342 0
-64C:\xcode\xgit_repos\taylor's_stuff\dist\icon-design.0d45471b.svg133331378110775350 0
-61C:\xcode\xgit_repos\taylor's_stuff\dist\icon-dev.ff036ad0.svg133331378109855312 0
-63C:\xcode\xgit_repos\taylor's_stuff\dist\icon-photo.e5ff6e94.svg133331378110765320 0
-63C:\xcode\xgit_repos\taylor's_stuff\dist\icon-quote.f7aaba68.svg133331378110765320 0
-65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-3-color.04f9ee8f.png133331378110395328 0
-65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-4-color.d13862dd.png133331378110365377 0
-65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-6-color.c1576fb1.png133331378110325301 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\my-avatar.18bdbd5e.png133331378110335319 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\photon.b3722802.png133331378110385327 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-1.e7cb688b.jpg133331378110835342 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-7.bd0d5a47.png133331378110385327 0
-62C:\xcode\xgit_repos\taylor's_stuff\dist\project-8.0cb2ebf3.jpg133331378110375350 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\Quarks.f1cafba0.png133331378111045317 0
-67C:\xcode\xgit_repos\taylor's_stuff\dist\StandardModel2.f8d8c738.png133331378110685316 0
-66C:\xcode\xgit_repos\taylor's_stuff\dist\taylor's_stuff.3464ddca.js133331378110335319 0
-48C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire133331378110765320 1
+70C:\xcode\xgit_repos\taylor's_stuff\dist\Antonio-Regular.e6575318.woff2133331388049246106 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\avatar-1.e2f42a37.png133331388049146107 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-1.caf1a197.jpg133331388049146107 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-2.b0b0e785.jpg133331388049536111 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-3.baf4f4d3.jpg133331388049286098 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-4.9e64574d.jpg133331388049826103 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-5.551bf442.jpg133331388049766070 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\blog-6.d97cac18.jpg133331388049226097 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\higgs.bc2c6b4a.png133331388049536111 0
+64C:\xcode\xgit_repos\taylor's_stuff\dist\icon-design.0d45471b.svg133331388049456075 0
+61C:\xcode\xgit_repos\taylor's_stuff\dist\icon-dev.ff036ad0.svg133331388049136087 0
+63C:\xcode\xgit_repos\taylor's_stuff\dist\icon-photo.e5ff6e94.svg133331388049666090 0
+63C:\xcode\xgit_repos\taylor's_stuff\dist\icon-quote.f7aaba68.svg133331388049666090 0
+65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-3-color.04f9ee8f.png133331388049236103 0
+65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-4-color.d13862dd.png133331388049816088 0
+65C:\xcode\xgit_repos\taylor's_stuff\dist\logo-6-color.c1576fb1.png133331388049146107 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\my-avatar.18bdbd5e.png133331388049236103 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\photon.b3722802.png133331388049876074 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-1.e7cb688b.jpg133331388049536111 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-7.bd0d5a47.png133331388049236103 0
+62C:\xcode\xgit_repos\taylor's_stuff\dist\project-8.0cb2ebf3.jpg133331388049816088 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\Quarks.f1cafba0.png133331388049776075 0
+67C:\xcode\xgit_repos\taylor's_stuff\dist\StandardModel2.f8d8c738.png133331388049636079 0
+66C:\xcode\xgit_repos\taylor's_stuff\dist\taylor's_stuff.3464ddca.js133331388049146107 0
+48C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire133331388049876074 1
 65C:\xcode\xgit_repos\taylor's_stuff\dist\thenJokes.5e54e524.js.map133302290709258787 0
-49C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes133331378111585287 1
-58C:\xcode\xgit_repos\taylor's_stuff\dist\work4.421f97a1.jpg133331378110845352 0
-58C:\xcode\xgit_repos\taylor's_stuff\dist\work6.734f37ff.jpg133331378110375350 0
-55C:\xcode\xgit_repos\taylor's_stuff\dist\wz.18bce613.png133331378111375304 0
-64C:\xcode\xgit_repos\taylor's_stuff\dist\thenSnowCones\index.html133331378110125295 0
-60C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\notes.html133331378111575319 0
-78C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\TheStandardModel\quarks.html133331378111575319 0
-90C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\TheStandardModel\the_standard_model.html133331378111355302 0
-68C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.1c191f30.css133331378110225304 0
-67C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.23bfed4a.js133331378109765320 0
-71C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.23bfed4a.js.map133331378110075332 0
-71C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.5717d55c.js.map133331378111025322 0
-60C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.html133331378111355302 0
+49C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes133331388049996093 1
+58C:\xcode\xgit_repos\taylor's_stuff\dist\work4.421f97a1.jpg133331388049536111 0
+58C:\xcode\xgit_repos\taylor's_stuff\dist\work6.734f37ff.jpg133331388049826103 0
+55C:\xcode\xgit_repos\taylor's_stuff\dist\wz.18bce613.png133331388049816088 0
+64C:\xcode\xgit_repos\taylor's_stuff\dist\thenSnowCones\index.html133331392069119952 0
+60C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\notes.html133331388049796084 0
+78C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\TheStandardModel\quarks.html133331388049796084 0
+90C:\xcode\xgit_repos\taylor's_stuff\dist\thenNotes\TheStandardModel\the_standard_model.html133331388049666090 0
+68C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.1c191f30.css133331388049466091 0
+67C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.23bfed4a.js133331388049146107 0
+71C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.23bfed4a.js.map133331388049466091 0
+71C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.5717d55c.js.map133331388049966090 0
+60C:\xcode\xgit_repos\taylor's_stuff\dist\thenLCARS\index.html133331388049676082 0
 60C:\xcode\xgit_repos\taylor's_stuff\dist\thenJokes\index.html133302290708988397 0
-66C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire\index.fc2f7771.js133331378110235352 0
-59C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire\index.html133331378109745315 0
-67C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.209089f6.js.map133331378110655300 0
-64C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.d6bb58b7.css133331378110215322 0
+66C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire\index.fc2f7771.js133331388049466091 0
+59C:\xcode\xgit_repos\taylor's_stuff\dist\thenHire\index.html133331388049136087 0
+67C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.209089f6.js.map133331388049466091 0
+64C:\xcode\xgit_repos\taylor's_stuff\dist\test2\index.d6bb58b7.css133331388049466091 0
 44C:\xcode\xgit_repos\taylor's_stuff\assets\js133264667947989858 1
 58C:\xcode\xgit_repos\taylor's_stuff\assets\scss\styles.scss133264937374131472 0
 52C:\xcode\xgit_repos\taylor's_stuff\assets\js\main.js133264049995112580 0
